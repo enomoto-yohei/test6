@@ -10,7 +10,6 @@ Research@Bachelor (2017 - 2021.4)
 |---|---|---|---|
 |---|---|---|---|
 
-
 ### Research@Master (20XX.X　-　20XX.X)       
 |Date|Title|Comment|URL|
 |---|---|---|---|
@@ -21,6 +20,10 @@ Research@Bachelor (2017 - 2021.4)
 |---|---|---|---|
 |---|---|---|---|
 
+## Progress Report
+|Date|修正前報告書URL|修正後報告書のURL|
+|---|---|---|
+|---|---|---|
 
 ## Journal  
 |Date|Institute|Title|URL|
